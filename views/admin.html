@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>CloudShop Admin</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<header>
+    <h1>CloudShop Admin Paneli</h1>
+    <p>Ürün Ekleme ve Yönetim Sayfası</p>
+</header>
+
+<main>
+    <h2>Yeni Ürün Ekle</h2>
+
+    <form id="productForm" class="admin-form">
+        <input type="text" id="name" placeholder="Ürün adı" required>
+        <input type="text" id="description" placeholder="Ürün açıklaması" required>
+        <input type="number" id="price" placeholder="Fiyat" required>
+        <input type="number" id="stock" placeholder="Stok" required>
+        <button type="submit">Ürün Ekle</button>
+    </form>
+
+    <hr>
+
+<h2>Gelen Siparişler</h2>
+<div id="orders"></div>
+
+    <p id="message"></p>
+
+    <a href="/">Ana Sayfaya Dön</a>
+</main>
+
+<script src="/admin.js"></script>
+
+</body>
+</html>
