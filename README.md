@@ -8,6 +8,11 @@ Bu proje ile bulut tabanlı uygulama geliştirme, veritabanı yönetimi ve bulut
 
 ---
 
+# Tanıtım Videosu
+- [İzlemek İçin Tıklayınız.](https://youtu.be/795b_Hu9JM0)
+
+---
+
 ## Kullanılan Teknolojiler
 
 ### Backend
