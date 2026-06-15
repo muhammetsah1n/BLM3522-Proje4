@@ -9,7 +9,7 @@ Bu proje ile bulut tabanlı uygulama geliştirme, veritabanı yönetimi ve bulut
 ---
 
 # Tanıtım Videosu
-- [İzlemek İçin Tıklayınız.](https://youtu.be/795b_Hu9JM0)
+- [İzlemek İçin Tıklayınız.](https://www.youtube.com/watch?v=apR70a-g28A)
 
 ---
 
